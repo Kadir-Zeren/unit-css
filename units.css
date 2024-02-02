@@ -1,7 +1,32 @@
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+}
 h1 {
   color: red;
   font-size: 30px;
 }
-p.abs{
-    font-size: 20px;
+p.abs {
+  font-size: 20px;
+}
+p.percent {
+  font-size: 200%;
+  font-size: 50%;
+}
+.div1 {
+  background-color: tomato;
+  width: 50%;
+  height: 50%;
+}
+.div2 {
+  background-color: green;
+  width: 50%;
+  height: 50%;
+}
+.div3 {
+  background-color: hotpink;
+  width: 50%;
+  height: 50%;
 }
